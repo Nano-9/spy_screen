@@ -1,8 +1,8 @@
 # Script em python que tira print a cada 3 segundos e envia para
 # o site: https://transfer.sh
 
-# by: Lucas Walker
-# Github: https://github.com/lucas-Dk
+# by: Nano-9
+# Github: https://github.com/nano-9
 
 # pip install requests pyscreenshot
 
